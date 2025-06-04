@@ -1,0 +1,23 @@
+* {
+  font-family: Montserrat;
+  font-weight: bold;
+  text-align: center;
+  align-items: center;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.horizontal {
+  display: flex;
+  gap: 200px;
+}
