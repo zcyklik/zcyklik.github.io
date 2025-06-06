@@ -2,7 +2,6 @@
   font-family: Montserrat;
   font-weight: bold;
   text-align: center;
-  align-items: center;
 }
 
 body {
@@ -20,4 +19,16 @@ p {
 .horizontal {
   display: flex;
   gap: 200px;
+}
+
+h2 {
+  font-size: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-size: 70px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
